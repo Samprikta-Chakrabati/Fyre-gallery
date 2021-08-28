@@ -60,7 +60,7 @@ a:hover {
     color: slateblue;
 }
 
-#im {
-    height: 500;
-    width: 500;
+.vid {
+    width: 500px;
+    height: 500px;
 }
